@@ -1,0 +1,6 @@
+{
+  "name": "WebVault AI",
+  "description": "סורק אתרים המאפשר להוריד דפים שלמים, תמונות, ומדיה לקריאה מוחלטת באופליין בלבד, מאובטח בקוד PIN מותאם לכל פרויקט, כולל עוזר AI מסכם מבית Gemini ופורום קהילה סוער.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
